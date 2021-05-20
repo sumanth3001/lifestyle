@@ -1,4 +1,4 @@
-a html>
+<!DOCTYPE html>
 <html>
     <head>
         <!-- The page has a title Lifestyle Store -->
